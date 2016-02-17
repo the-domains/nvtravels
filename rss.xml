@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[NVTravels]]></title>
         <description><![CDATA[NVTravels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nvtravels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 15:26:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 15:26:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nvtravels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top things to do in Ho Chi Minh City, Vietnam]]></title>
+            <description><![CDATA[<article><h1>Top things to do in Ho Chi Minh City, Vietnam</h1><p>We started our Vietnam trip with Ho Chi Minh City. We didn't expect much of it, because many people have said there isn't much to do. Upon arrival we quickly learned that "what people said" about Vietnam, turned out to be very subjective (more than normal).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d42c0a076430442d9d69efbd862ce25c9547db3.jpg"></article>]]></description>
+            <link>http://www.nvexpit.com/2015/02/top-things-to-do-in-ho-chi-minh-city.html</link>
+            <guid isPermaLink="false">ff9368be-e949-4df7-bcc7-4473d18e3917</guid>
+            <pubDate>Wed, 17 Feb 2016 15:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Explore Cape Town - Penguins at Boulders Beach]]></title>
             <description><![CDATA[<article><h1>Explore Cape Town - Penguins at Boulders Beach</h1><p>Yes, you read right! We have penguins in South Africa! They are called African Penguins and are native to South Africa. They were almost extinct, because of hunters and animals that killed them and are now very protected.When you go to see these penguins you have 2 options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e00cf735743d6258374e8e5ec3cecf0a26ad0ec4.png"></article>]]></description>
