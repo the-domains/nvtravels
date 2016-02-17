@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NVTravels]]></title>
+        <description><![CDATA[NVTravels]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 15:26:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explore Cape Town - Penguins at Boulders Beach]]></title>
+            <description><![CDATA[<article><h1>Explore Cape Town - Penguins at Boulders Beach</h1><p>Yes, you read right! We have penguins in South Africa! They are called African Penguins and are native to South Africa. They were almost extinct, because of hunters and animals that killed them and are now very protected.When you go to see these penguins you have 2 options.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e00cf735743d6258374e8e5ec3cecf0a26ad0ec4.png"></article>]]></description>
+            <link>http://www.nvexpit.com/2015/07/explore-cape-town-penguins-at-boulders.html</link>
+            <guid isPermaLink="false">f1a917df-4532-4a5c-86b3-8753c180be6e</guid>
+            <pubDate>Wed, 17 Feb 2016 15:26:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
